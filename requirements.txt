@@ -23,7 +23,7 @@ django-hvad==1.8.0
 django-parler==2.0.1
 django-registration==3.1
 django-tables2==1.21.2
-djangorestframework==3.8.2
+djangorestframework==3.11.2
 enum34==1.1.6
 et-xmlfile==1.0.1
 gunicorn==20.0.4
